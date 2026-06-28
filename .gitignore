@@ -30,6 +30,6 @@ Thumbs.db
 
 
 ml-service/models/california_housing_model.joblib
-backend-java/target
-portal/node_modules
+backend-java/target/
+portal/node_modules/
 
