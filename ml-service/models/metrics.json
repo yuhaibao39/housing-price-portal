@@ -1,0 +1,10 @@
+{
+  "r2_score": 0.8053,
+  "mae": 0.3274,
+  "rmse": 0.5051,
+  "model_type": "RandomForestRegressor",
+  "n_estimators": 100,
+  "n_features": 8,
+  "n_samples": 20640,
+  "training_date": "2026-06-27T01:50:23.642695+00:00"
+}
